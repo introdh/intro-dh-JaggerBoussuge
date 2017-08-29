@@ -23,16 +23,16 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  Create your response below this line. 
  ------------------
 
-# A Favorite Quote
+# *A Favorite Quote*
 
 > "I don't exactly know what I mean by that, but I mean it.” ― J.D. Salinger
 
-# A Favorite Photo
+# *A Favorite Photo*
 
 [I'm an inline-style link (https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/320x240/556d89b2cfaf3421548b4568/b4ebe4f747e3b95ad52b94508c148ad3.jpeg)
 
-# The Biggest questions I have going into this class are:
+# *The Biggest questions I have going into this class are:*
 
 > Is this a coding class?
 > What types of digital media are we going to leanr about?
-> Is this class more of a creative class or a data collecting and shaping class?
+> Is this class more of a creative class or a data collecting and shaping class?
