@@ -29,9 +29,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 # *A Favorite Photo*
 
-(https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/320x240/556d89b2cfaf3421548b4568/b4ebe4f747e3b95ad52b94508c148ad3.jpeg)
-
-[I'm an inline-style link (https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/320x240/556d89b2cfaf3421548b4568/b4ebe4f747e3b95ad52b94508c148ad3.jpeg)
+ (https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/320x240/556d89b2cfaf3421548b4568/b4ebe4f747e3b95ad52b94508c148ad3.jpeg)
 
 # *The Biggest questions I have going into this class are:*
 
