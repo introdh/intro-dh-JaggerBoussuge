@@ -23,3 +23,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  Create your response below this line. 
  ------------------
 
+# A Favorite Quote
+
+"I don't exactly know what I mean by that, but I mean it.” 
+― J.D. Salinger
