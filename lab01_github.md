@@ -36,5 +36,5 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 # *The Biggest questions I have going into this class are:*
 
 > Is this a coding class?
-> What types of digital media are we going to leanr about?
-> Is this class more of a creative class or a data collecting and shaping class?
+> What types of digital media are we going to learn about?
+> Is this class more of a writting orrientated class or a data collecting and shaping class?
