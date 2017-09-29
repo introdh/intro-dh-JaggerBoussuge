@@ -22,7 +22,15 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
 
 ### 2017-09-25: Topic modeling I
 
+# My AHA! moment was when Megan explains her analogy between highlighting key words in a paper with a marker and topic modeling "As you read through the article, you use a different color for the key words of themes within the paper as you come across them. When you were done, you could copy out the words as grouped by the color you assigned them. That list of words is a topic, and each color represents a different topic." This make me clearly understand what she meant by a "Topic".
+
+# I got slightly confused when Megan started talking about the tools needed to topic model as I am not familiar with any of them. Such as "zotero" and "paper machines"
+
 ### 2017-10-02: Topic Modeling II
+
+# "Text mining aims to shed light on authorship and the creative process by examining word 5 patterns in individual books, but it also can analyze thousands of texts at once in search of broader trends." This in my opinion was the clearest explanation of what Text mining accomplishes and how it does it.
+
+# There was no passage in this article that really needs further explanation, I just struggle to understand how people can still dispute wether or not Ms. Lee wrote both books after the texts have been analyzed.
 
 ### 2017-10-09: Stylometry
 
