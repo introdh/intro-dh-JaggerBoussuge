@@ -1,4 +1,4 @@
-Topic Modeling Visualization Written Response 
+## Topic Modeling Visualization Written Response 
 
 I selected my data from dfr.jstor.org, which is a website that allows users to find mass data for research (DFR). As I looked at possible journals to choose data from I fell on “Folk music journal” which seemed very interesting to me as I have always loved folk music and the culture surrounding it. I also chose the “Folk music journal” as it contained roughly 1,600 articles which I thought was an appropriate length for topic modeling as it was a large enough corpus to find specific trends in while not being too big that it would take too much time to load when upload and downloading it.  In addition my time frame for the journal was between the years 1964 to 2013, and I used a mixed of book reviews, research articles, miscellaneous articles and news articles.
 
