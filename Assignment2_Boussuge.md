@@ -14,3 +14,5 @@ However, topic modeling does have its downsides. When referring to Laurel Thatch
 
 [1] Brett, Megan R. “Topic Modeling: A Basic Introduction.” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.
 
+
+My site: https://jaggerboussuge.github.io/dh-topic-models/
