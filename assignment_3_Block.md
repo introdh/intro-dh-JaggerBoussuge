@@ -15,4 +15,6 @@ After looking at my map I started to think what the legacy of redlining has left
 Using the social explorer I searched to see the African American population demographics in Miami. To my earlier point I noticed many neighborhoods have not changed.
 This first map shows the 2015 census of areas with a high population of African Americans. The second map shows the 2015 census of household making less than $20,000 yearly. This is below the poverty line which is roughly around $22,000 for the USA. Finally the last map is the original redlining map of miami in 1937. All three maps have correlating data. The areas with a high population of African Americans also are places with high rates of poverty, and finally are the same areas with low grades in the 1937 redlining map.  
 
-![Image of Map](https://github.com/intro-dh-JaggerBoussuge/Screen Shot 2017-11-10 at 1.44.38 PM.png)
+!(https://github.com/intro-dh-JaggerBoussuge/Screen Shot 2017-11-10 at 1.44.38 PM.png)
+
+
