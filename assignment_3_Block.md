@@ -18,3 +18,14 @@ This first map shows the 2015 census of areas with a high population of African 
 !(https://github.com/intro-dh-JaggerBoussuge/Screen Shot 2017-11-10 at 1.44.38 PM.png)
 
 
+
+
+# Bibliography:
+
+Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers
+https://dsl.richmond.edu/panorama/redlining
+ 
+Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.
+
+Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the Future of History.” p. 1-13. History and GIS: Epistomologies, Considerations and Reflections. Springer, 2013.
+
