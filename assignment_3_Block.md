@@ -4,7 +4,7 @@ Georeferencing in the GIS field is a process in which we overlay geographic data
 
 # Contextualize my map
 
-The 1937 map of Miami shows what we call “redlining”. Redlining was a practice which divided neighborhoods/regions into areas that were graded depending on how desirable they were to live. The highest grade is an A followed by B, C and D. One of the key factors in the categorization of these areas was race and diversity. “The presence of race-restrictive covenants aimed at painting homogeneity.”(Hiller, Pg. 80) In other words the fourth Grade or the “D” areas” was categorised based on ““an undesirable population or an infiltration of it” referring largely to the presence of Jews and African Americans” (Hiller, Pg. 80) This shows how racist redlining was, the less diverse an area's population was the higher grade it was given. The point of redlining was to give banks and other financial institutions a guide to who to give a loan and mortgage to and who not to depending on where they live, resulting in minorities being heavily disadvantaged and discriminated against financially. 
+The 1937 map of Miami shows what we call “redlining”. Redlining was a practice which divided neighborhoods/regions into areas that were graded depending on how desirable they were to live. The highest grade is an A followed by B, C and D. One of the key factors in the categorization of these areas was race and diversity. “The presence of race-restrictive covenants aimed at painting homogeneity.”(Hiller, Page 80) In other words the fourth Grade or the “D” areas” was categorised based on ““an undesirable population or an infiltration of it” referring largely to the presence of Jews and African Americans” (Hiller, Pg. 80) This shows how racist redlining was, the less diverse an area's population was the higher grade it was given. The point of redlining was to give banks and other financial institutions a guide to who to give a loan and mortgage to and who not to depending on where they live, resulting in minorities being heavily disadvantaged and discriminated against financially. 
 
 # Questions my map generated about the past and the present
 
@@ -17,8 +17,9 @@ This first map shows the 2015 census of areas with a high population of African 
 
 !(https://github.com/intro-dh-JaggerBoussuge/Screen Shot 2017-11-10 at 1.44.38 PM.png)
 
+# Limitations of the map
 
-
+According to Bodenhamer, GIS can help “users ... discover relationships that make a complex world more immediately understandable by visually detecting spatial patterns that remain hidden in texts and tables.” (Bodenhamer, page 4) Even though GIS is extremely helpful in visualizing and explaining a concept, this map has it’s limitations. Essentially this project simply shows data points on a map, which definitely helps prove a point and/or give evidence to a humanities statement. However, this is all quantitative, it would be nice to have some qualitative data as well that is not shown on this map. This could possibly be in the form of primary sources such as interviews with those marginalized by redlining / those who redlined.
 
 # Bibliography:
 
