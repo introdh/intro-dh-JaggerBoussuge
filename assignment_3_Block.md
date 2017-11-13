@@ -16,8 +16,13 @@ Using the social explorer I searched to see the African American population demo
 This first map shows the 2015 census of areas with a high population of African Americans. The second map shows the 2015 census of household making less than $20,000 yearly. This is below the poverty line which is roughly around $22,000 for the USA. Finally the last map is the original redlining map of miami in 1937. All three maps have correlating data. The areas with a high population of African Americans also are places with high rates of poverty, and finally are the same areas with low grades in the 1937 redlining map.  
 
 ![1](https://github.com/introdh/intro-dh-JaggerBoussuge/blob/master/Screen%20Shot%202017-11-10%20at%201.44.38%20PM.png)
+
+
 ![2](https://github.com/introdh/intro-dh-JaggerBoussuge/blob/master/Screen%20Shot%202017-11-10%20at%201.52.40%20PM.png)
+
+
 ![3](https://github.com/introdh/intro-dh-JaggerBoussuge/blob/master/Screen%20Shot%202017-11-10%20at%202.01.32%20PM.png)
+
 
 # Limitations of the map
 
