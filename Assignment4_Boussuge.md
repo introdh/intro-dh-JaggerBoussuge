@@ -13,3 +13,5 @@ The network that focuses on centrality uses the eigenvector centrality approach.
 “The network method allows us to determine the extent to which cases become more or less relevant over time, in comparison to other cases in the network, in a more valid way than extant measures.” (Fowler, 2007)
 As with almost everything there are limitations with network analysis. In his conclusion Fowler puts it as: “There is much more work to be done.” He explains that hopefully more people show interest in networks and attempt to use “network techniques to probe the extent to which judges are influenced py precedent when they decide which cases to cite.”  As well as “to understand the development of the norm of stare decisive in American Law.” (Fowler, 2007)
 
+# Bibliography
+(Fowler, Advance Access publication, May 22, 2007)
